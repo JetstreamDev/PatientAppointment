@@ -7,11 +7,11 @@
 
 int main()
 {
-	Orchestrator theOrchestrator;
+	/*Orchestrator theOrchestrator;
+
+	This is a test
 
 
-
-
-	theOrchestrator.makeAppointment("Because I said so", "Patient 123");
+	theOrchestrator.makeAppointment("Because I said so", "Patient 123");*/
 
 }
